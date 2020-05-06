@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		
+		<title>R&amp;P - Attitudes Competency Radar</title>
+  		<link rel="shortcut icon" href="./img/RP_Logo_Icon.svg">
+
+		<!-- Google fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Montserrat:700,300' rel='stylesheet' type='text/css'>
+
+		<!-- D3.js -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.3.0/d3-legend.js" charset="utf-8"></script>
+		
+		<style>
+			body {
+				font-family: 'Montserrat', sans-serif;
+				font-size: 16px;
+				font-weight: 300;
+				text-align: center;
+				text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+				cursor: default;
+			}
+
+			h1{
+				font-size: 28px;
+				font-weight: 700;
+			}
+
+			.rc_tooltip {
+				font-size: 18px;
+			}
+
+			h3{
+				font-size: 18px;
+				font-weight: 400;
+			}
+
+			
+			 /* The Modal (background) */
+			.modal {
+				display: none; /* Hidden by default */
+				position: fixed; /* Stay in place */
+				z-index: 1; /* Sit on top */
+				left: 0;
+				top: 0;
+				width: 100%; /* Full width */
+				height: 100%; /* Full height */
+				overflow: auto; /* Enable scroll if needed */
+				background-color: rgb(0,0,0); /* Fallback color */
+				background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+			}
+
+			/* Modal Content/Box */
+			.modal-content {
+				background-color: #fefefe;
+				margin: 15% auto; /* 15% from the top and centered */
+				padding: 20px 30px 20px 40px;
+				border: 1px solid #888;
+				border-radius: 10px;
+				width: 80%; /* Could be more or less, depending on screen size */
+				max-width: 600px;
+				text-align: left;
+			}
+
+			#modal_body {
+				line-height: 22px;
+			}
+
+			/* The Close Button */
+			.close {
+				color: #aaa;
+				float: right;
+				font-size: 28px;
+				font-weight: bold;
+			}
+
+			.close:hover,
+			.close:focus {
+				color: black;
+				text-decoration: none;
+				cursor: pointer;
+			} 
+
+		</style>
+	
+	</head>
+	<body>
+
+		<h1>R&P Nesta Competencies - Attitudes</h1>
+
+		
+
+		<div id="radarChart"></div>
+      <script src="js/radarChart.js"></script>
+
+		<script>
+			var color = d3.scale.ordinal()
+				.range(["#EDC951","#CC333F","#00A0B0"]);
+				
+			var radarChartOptions = {
+           width: 600,
+		   height: 1000,
+			  color: color
+			};
+
+         radarChart = RadarChart()
+
+         d3.select('#radarChart')
+           .call(radarChart);
+
+         radarChart.options(radarChartOptions).update();
+
+		</script>
+
+	  <script src="js/radarData_Attitudes.js"></script>
+
+
+
+	<!-- The Modal -->
+	<div id="myModal" class="modal">
+	
+	<!-- Modal content -->
+	<div class="modal-content">
+		<span class="close">&times;</span>
+
+		<h2 id="modal_heading">Modal Title</h2>
+		<h3 id="modal_sub">Modal Description</h3>
+		<p id="modal_body">Modal Body</p>
+
+	</div>
+	
+	</div> 
+		  
+
+
+	</body>
+</html>
+
