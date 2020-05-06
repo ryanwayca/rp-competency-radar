@@ -28,10 +28,10 @@
        '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Testing
-       '<ul><li><a href="https://hbr.org/2016/06/627-building-resilience-ic-5-ways-to-build-your-personal-resilience-at-work" target="_blank">Read - 23 Resilience Building Tools and Exercises</a></li><li><a href="https://www.youtube.com/watch?v=WKLy71DO6CQ" target="_blank">Watch - TED TALK on Super-Resilience - How to FALL UP</a></li><li><a href="https://positivepsychology.com/resilience-activities-exercises/" target="_blank">Do - 5 Ways to Boost Your Resilience at Work</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Security
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>'
+       '<ul><li><a href="https://www.cse-cst.gc.ca/en/system/files/pdf_documents/proof-v1-itslc-course-calendar-v092018-ef.pdf" target="_blank">CSE IT Security Learning Centre Course Calendar</a></li><li><a href="https://www.youtube.com/watch?v=1ghIH_Myu4U" target="_blank">Secure Coding Workshop (YouTube Video)</a></li><li><a href="https://safecode.org/training/" target="_blank">SAFECode Training</a></li></ul>'
    ];
 
    // data here populates the radar for each key with its own value set.

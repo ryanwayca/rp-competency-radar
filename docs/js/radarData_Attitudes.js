@@ -7,31 +7,31 @@
    var data_resources = 
    [
        // Agile
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Action-Oriented
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Curious
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Reflective
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Courageous
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Outcomes-Focused
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Imaginative
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>',
        
        // Resilient
        '<ul><li><a href="https://hbr.org/2016/06/627-building-resilience-ic-5-ways-to-build-your-personal-resilience-at-work" target="_blank">Read - 23 Resilience Building Tools and Exercises</a></li><li><a href="https://www.youtube.com/watch?v=WKLy71DO6CQ" target="_blank">Watch - TED TALK on Super-Resilience - How to FALL UP</a></li><li><a href="https://positivepsychology.com/resilience-activities-exercises/" target="_blank">Do - 5 Ways to Boost Your Resilience at Work</a></li></ul>',
        
        // Empathetic
-       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link dd</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>'
+       '<ul><li><a href="#" target="_blank">Link 01</a></li><li><a href="#" target="_blank">Link 02</a></li><li><a href="#" target="_blank">Link 03</a></li></ul>'
    ];
 
    // data here populates the radar for each key with its own value set.
