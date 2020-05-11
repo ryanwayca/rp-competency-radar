@@ -1041,6 +1041,9 @@ function RadarChart() {
          .textContent=d.axis;
       //var modal_sub = 
       document.getElementById("modal_sub")
+         .textContent=d.popupSubtitle;
+      //var modal_description = 
+      document.getElementById("modal_description")
          .textContent='Complete the following resources to increase your ' + d.axis + ' competency:';
       //var modal_body = 
       document.getElementById("modal_body")
