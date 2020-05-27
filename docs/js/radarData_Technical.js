@@ -145,6 +145,34 @@
           ]
         },
         {  
+          "key":"Aleem",
+          "values":[  
+            {  "axis":"Application Development", "value":2, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":1, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":1, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":1, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":1, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":1, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":1, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
+          "key":"Bruno",
+          "values":[  
+            {  "axis":"Application Development", "value":2, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":2, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":3, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":2, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":2, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
           "key":"Dave",
           "values":[  
             {  "axis":"Application Development", "value":2, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
@@ -156,6 +184,62 @@
             {  "axis":"Telecommunications", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
             {  "axis":"Testing", "value":4, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
             {  "axis":"Security", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
+          "key":"Eric",
+          "values":[  
+            {  "axis":"Application Development", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":3, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":3, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
+          "key":"Jonathan",
+          "values":[  
+            {  "axis":"Application Development", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":3, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":2, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":1, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
+          "key":"Patrice",
+          "values":[  
+            {  "axis":"Application Development", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":2, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":2, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+          ]
+        },
+        {  
+          "key":"Ryan",
+          "values":[  
+            {  "axis":"Application Development", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0]  }, 
+            {  "axis":"Mobile Apps", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1]  },
+            {  "axis":"Web Development", "value":3, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2]  }, 
+            {  "axis":"Business Analysis", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3]  },
+            {  "axis":"Database Management", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4]  }, 
+            {  "axis":"Infrastructure/Platforms", "value":1, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5]  },
+            {  "axis":"Telecommunications", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6]  }, 
+            {  "axis":"Testing", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Security", "value":2, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
           ]
         }
       ];
@@ -173,7 +257,15 @@
        'Prototyping Specialist': '#998ec3', 
        'Team Leader': '#35978f', 
        'Team Leader - Technical': '#01665e', 
-       'Dave': '#4daf4a'}).update();
+       'Aleem': '#377eb8', 
+       'Bruno': '#a65628',
+       'Dave': '#4daf4a',
+       'Eric': '#ff7f00', 
+       'Gil': '#ffff33', 
+       'Jonathan': '#f781bf',
+       'Patrice': '#e41a1c', 
+       'Ryan': '#984ea3' 
+      }).update();
  }, 200);
 
    

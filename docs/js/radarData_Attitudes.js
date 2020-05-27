@@ -61,20 +61,6 @@
    data_01 = 
       [  
         {  
-          "key":"Patrice",
-          "values":[  
-            {   "axis":"Agile","value":5, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":1, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
-          ]
-        },
-        {  
           "key":"Aleem",
           "values":[  
             {   "axis":"Agile", "value":4, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
@@ -89,6 +75,20 @@
           ]
         },
         {  
+          "key":"Bruno",
+          "values":[  
+            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {   "axis":"Action-Oriented", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {   "axis":"Curious", "value":1, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {   "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {   "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {   "axis":"Resilient", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {   "axis":"Empathetic", "value":5, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+          ]
+        },
+        {  
           "key":"Dave",
           "values":[  
             {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
@@ -100,20 +100,6 @@
             {   "axis":"Imaginative", "value":3,  "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
             {   "axis":"Resilient", "value":5, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
             {   "axis":"Empathetic", "value":1,"resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
-          ]
-        },
-        {  
-          "key":"Ryan",
-          "values":[  
-            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":1, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":4, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
@@ -159,17 +145,31 @@
           ]
         },
         {  
-          "key":"Bruno",
+          "key":"Patrice",
+          "values":[  
+            {   "axis":"Agile","value":5, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {   "axis":"Action-Oriented", "value":1, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {   "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+          ]
+        },
+        {  
+          "key":"Ryan",
           "values":[  
             {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":1, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {   "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {   "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
             {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":5, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {   "axis":"Courageous", "value":1, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {   "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {   "axis":"Empathetic", "value":4, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
@@ -186,119 +186,7 @@
             {   "axis":"Empathetic", "value":2.875, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         }
-      ];
-
-    
-
-
-
-
-      
-/*
-      data_02 = 
-      [  
-        {  
-          "key":"Junior Prototyping Specialist",
-          "values":[  
-            {  "axis":"Application Development", "value":2.5 }, 
-            {  "axis":"Mobile Apps", "value":2.5 },
-            {  "axis":"Web Development", "value":2.5 }, 
-            {  "axis":"Business Analysis", "value":1.0 },
-            {  "axis":"Database Management", "value":2.0 }, 
-            {  "axis":"Infrastructure/Platforms", "value":2.0 },
-            {  "axis":"Telecommunications", "value":2.0 }, 
-            {  "axis":"Testing", "value":2.5 }, 
-            {  "axis":"Security", "value":2.0 }
-          ]
-        },
-        {  
-          "key":"Manager",
-          "values":[  
-            {  "axis":"Application Development", "value":2.3 }, 
-            {  "axis":"Mobile Apps", "value":1.7 },
-            {  "axis":"Web Development", "value":2.0 }, 
-            {  "axis":"Business Analysis", "value":3.3 },
-            {  "axis":"Database Management", "value":1.7 }, 
-            {  "axis":"Infrastructure/Platforms", "value":1.7 },
-            {  "axis":"Telecommunications", "value":1.7 }, 
-            {  "axis":"Testing", "value":2.0 }, 
-            {  "axis":"Security", "value":2.0 }
-          ]
-        },
-        {  
-          "key":"Mutlimedia Design Specialist",
-          "values":[  
-            {  "axis":"Application Development", "value":2.7 }, 
-            {  "axis":"Mobile Apps", "value":2.7 },
-            {  "axis":"Web Development", "value":3.3 }, 
-            {  "axis":"Business Analysis", "value":2.7 },
-            {  "axis":"Database Management", "value":2.0 }, 
-            {  "axis":"Infrastructure/Platforms", "value":2.3 },
-            {  "axis":"Telecommunications", "value":2.3 }, 
-            {  "axis":"Testing", "value":2.7 }, 
-            {  "axis":"Security", "value":2.3 }
-          ]
-        },
-        {  
-          "key":"Prototyping Specialist",
-          "values":[  
-            {  "axis":"Application Development", "value":3.7 }, 
-            {  "axis":"Mobile Apps", "value":3.0 },
-            {  "axis":"Web Development", "value":3.3 }, 
-            {  "axis":"Business Analysis", "value":3.0 },
-            {  "axis":"Database Management", "value":3.0 }, 
-            {  "axis":"Infrastructure/Platforms", "value":3.0 },
-            {  "axis":"Telecommunications", "value":2.3 }, 
-            {  "axis":"Testing", "value":3.3 }, 
-            {  "axis":"Security", "value":3.3 }
-          ]
-        },
-        {  
-          "key":"Team Leader",
-          "values":[  
-            {  "axis":"Application Development", "value":2.7 }, 
-            {  "axis":"Mobile Apps", "value":1.8 },
-            {  "axis":"Web Development", "value":2.2 }, 
-            {  "axis":"Business Analysis", "value":3.0 },
-            {  "axis":"Database Management", "value":2.0 }, 
-            {  "axis":"Infrastructure/Platforms", "value":1.8 },
-            {  "axis":"Telecommunications", "value":1.8 }, 
-            {  "axis":"Testing", "value":2.3 }, 
-            {  "axis":"Security", "value":2.2 }
-          ]
-        },
-        {  
-          "key":"Team Leader - Technical",
-          "values":[  
-            {  "axis":"Application Development", "value":4.3 }, 
-            {  "axis":"Mobile Apps", "value":3.5 },
-            {  "axis":"Web Development", "value":3.8 }, 
-            {  "axis":"Business Analysis", "value":3.5 },
-            {  "axis":"Database Management", "value":3.3 }, 
-            {  "axis":"Infrastructure/Platforms", "value":3.5 },
-            {  "axis":"Telecommunications", "value":3.0 }, 
-            {  "axis":"Testing", "value":3.5 }, 
-            {  "axis":"Security", "value":3.3 }
-          ]
-        },
-        {  
-          "key":"Dave",
-          "values":[  
-            {  "axis":"Application Development", "value":2 }, 
-            {  "axis":"Mobile Apps", "value":1 },
-            {  "axis":"Web Development", "value":2 }, 
-            {  "axis":"Business Analysis", "value":3 },
-            {  "axis":"Database Management", "value":2 }, 
-            {  "axis":"Infrastructure/Platforms", "value":1 },
-            {  "axis":"Telecommunications", "value":1 }, 
-            {  "axis":"Testing", "value":4 }, 
-            {  "axis":"Security", "value":3 }
-          ]
-        }
-      ];
-*/
-
-      
+      ];      
     
       
    setTimeout(function() { 
@@ -307,31 +195,16 @@
       radarChart.filterAxes(9);
       radarChart.options({circles: {maxValue: 5, levels: 5}}).update();
       radarChart.colors({
-         'Patrice': '#e41a1c', 
          'Aleem': '#377eb8', 
-         'Dave': '#4daf4a', 
-         'Ryan': '#984ea3', 
+         'Bruno': '#a65628',
+         'Dave': '#4daf4a',
          'Eric': '#ff7f00', 
          'Gil': '#ffff33', 
-         'Jonathan': '#f781bf', 
-         'Bruno': '#a65628', 
-         'Team': 'black'}).update();;
+         'Jonathan': '#f781bf',
+         'Patrice': '#e41a1c', 
+         'Ryan': '#984ea3',
+         'Team': 'black',
+        }).update();;
    }, 200);
-/*
-   setTimeout(function() { 
-    radarChart.data(data_02).duration(1000).update();
-
-    radarChart.filterAxes(9);
-    radarChart.options({circles: {maxValue: 5, levels: 5}}).update();
-    radarChart.colors({
-       'Junior Prototyping Specialist': '#8c510a', 
-       'Manager': '#bf812d', 
-       'Mutlimedia Design Specialist': '#f1a340', 
-       'Prototyping Specialist': '#998ec3', 
-       'Team Leader': '#35978f', 
-       'Team Leader - Technical': '#01665e', 
-       'Dave': '#4daf4a'}).update();
- }, 300);
-*/
 
 }();
