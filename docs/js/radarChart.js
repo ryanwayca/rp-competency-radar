@@ -51,7 +51,7 @@ function RadarChart() {
          borderWidth: 3,
          rounded: true,
          dotRadius: 6,
-         sort: true,          // sort layers by approximation of size, smallest on top
+         sort: false,          // sort layers by approximation of size, smallest on top
          filter: []
       },
 
@@ -309,9 +309,7 @@ function RadarChart() {
                     .style('opacity', function(d, i) { return options.axes.display ? 1 : 0})
                     .on('mouseover', function(d, i, j) { if (events.axisLegend.mouseover) events.axisLegend.mouseover(d, i, j); })
                     .on('mouseout', function(d, i, j) { if (events.axisLegend.mouseout) events.axisLegend.mouseout(d, i, j); })
-//////////////////////
-                    // axis legend click
-                    //.on("click", function(d) { alert(d.popup); })
+
                     .on("click", function(d, i, j) { if (events.axisLegend.mouseclick) events.axisLegend.mouseclick(d, i, j); })
 
                     .call(wrap, options.axes.wrapWidth)
@@ -1000,6 +998,8 @@ function RadarChart() {
             });	
    }
 
+
+   // clicking on legend item toggles on/off the ring in the radar
    function legendClick(d, i, self) {
          var keys = _data.map(function(m) {return m.key});
          modifyList(options.areas.filter, keys[d], keys);

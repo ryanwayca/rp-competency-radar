@@ -63,127 +63,127 @@
         {  
           "key":"Aleem",
           "values":[  
-            {   "axis":"Agile", "value":4, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2,  "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":1, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
-            {   "axis":"Empathetic", "value":3,"resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":4, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":2,  "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":1, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Empathetic", "value":3,"resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Bruno",
           "values":[  
-            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":1, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":5, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":3, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":1, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":3, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":5, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Dave",
           "values":[  
-            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":4, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":2, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":3,  "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":5, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
-            {   "axis":"Empathetic", "value":1,"resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
+            {  "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":4, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":2, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":3,  "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":5, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7]  }, 
+            {  "axis":"Empathetic", "value":1,"resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8]  }
           ]
         },
         {  
           "key":"Eric",
           "values":[  
-            {   "axis":"Agile", "value":4, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":1, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":4, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":2, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
+            {  "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":1, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Gil",
           "values":[  
-            {   "axis":"Agile", "value":2, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":3, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":1, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":4, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":2, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":3, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":1, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":4, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Jonathan",
           "values":[  
-            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":3, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
-            {   "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":5, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":3, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":2, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
+            {  "axis":"Outcomes-Focused", "value":4, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":1, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Patrice",
           "values":[  
-            {   "axis":"Agile","value":5, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":1, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile","value":5, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":1, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":4, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":3, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":2, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":3, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Ryan",
           "values":[  
-            {   "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":1, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
-            {   "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":4, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":3, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":2, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":5, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":4, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":1, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] }, 
+            {  "axis":"Outcomes-Focused", "value":3, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":3, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":4, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         },
         {  
           "key":"Team",
           "values":[  
-            {   "axis":"Agile", "value":3.375, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
-            {   "axis":"Action-Oriented", "value":3.375, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
-            {   "axis":"Curious", "value":3.75, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
-            {   "axis":"Reflective", "value":3.375, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
-            {   "axis":"Courageous", "value":2.5, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
-            {   "axis":"Outcomes-Focused", "value":2.875, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
-            {   "axis":"Imaginative", "value":2.5, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
-            {   "axis":"Resilient", "value":2.375, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
-            {   "axis":"Empathetic", "value":2.875, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
+            {  "axis":"Agile", "value":3.375, "resources":data_resources[0], "popupSubtitle":data_popupSubtitle[0] }, 
+            {  "axis":"Action-Oriented", "value":3.375, "resources":data_resources[1], "popupSubtitle":data_popupSubtitle[1] },
+            {  "axis":"Curious", "value":3.75, "resources":data_resources[2], "popupSubtitle":data_popupSubtitle[2] }, 
+            {  "axis":"Reflective", "value":3.375, "resources":data_resources[3], "popupSubtitle":data_popupSubtitle[3] },
+            {  "axis":"Courageous", "value":2.5, "resources":data_resources[4], "popupSubtitle":data_popupSubtitle[4] },
+            {  "axis":"Outcomes-Focused", "value":2.875, "resources":data_resources[5], "popupSubtitle":data_popupSubtitle[5] },
+            {  "axis":"Imaginative", "value":2.5, "resources":data_resources[6], "popupSubtitle":data_popupSubtitle[6] }, 
+            {  "axis":"Resilient", "value":2.375, "resources":data_resources[7], "popupSubtitle":data_popupSubtitle[7] }, 
+            {  "axis":"Empathetic", "value":2.875, "resources":data_resources[8], "popupSubtitle":data_popupSubtitle[8] }
           ]
         }
       ];      
@@ -195,15 +195,15 @@
       radarChart.filterAxes(9);
       radarChart.options({circles: {maxValue: 5, levels: 5}}).update();
       radarChart.colors({
-         'Aleem': '#377eb8', 
-         'Bruno': '#a65628',
-         'Dave': '#4daf4a',
-         'Eric': '#ff7f00', 
-         'Gil': '#ffff33', 
-         'Jonathan': '#f781bf',
-         'Patrice': '#e41a1c', 
-         'Ryan': '#984ea3',
-         'Team': 'black',
+          'Aleem': '#377eb8', 
+          'Bruno': '#a65628',
+          'Dave': '#4daf4a',
+          'Eric': '#ff7f00', 
+          'Gil': '#ffff33', 
+          'Jonathan': '#f781bf',
+          'Patrice': '#e41a1c', 
+          'Ryan': '#984ea3',
+          'Team': 'black'
         }).update();;
    }, 200);
 
