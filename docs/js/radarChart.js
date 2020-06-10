@@ -30,8 +30,9 @@ function RadarChart() {
 
       // Margins for the SVG
       margins: {
-         top: -380, 
-         right: 100, 
+         //top: -380, 
+         top: 75, 
+         right: 425, 
          bottom: 100, 
          left: 100
       },
@@ -72,7 +73,8 @@ function RadarChart() {
          display: true,
          symbol: 'circle', // 'circle', 'cross', 'diamond', 'triangle-up', 'triangle-down'
          toggle: 'cross',
-         position: { x: 25, y: 575 }
+         //position: { x: 25, y: 525}
+         position: { x: 725, y: 100}
       },
 
       class: "rc",
